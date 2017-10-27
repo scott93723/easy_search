@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>大台北</item>
+        <item>桃園</item>
+        <item>基隆</item>
+        <item>宜蘭</item>
+        <item>花蓮</item>
+        <item>台中</item>
+        <item>苗栗</item>
+        <item>彰化</item>
+        <item>台東</item>
+        <item>澎湖</item>
+        <item>金門</item>
+        <item>馬祖</item>
+        <item>龜山島</item>
+        <item>蘭嶼</item>
+    </string-array>
+</resources>
